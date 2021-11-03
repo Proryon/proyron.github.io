@@ -1,0 +1,27 @@
+h1{
+    color: white;
+    text-align: center;
+    font-size: 500%;
+    font-family: fantasy;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: auto;
+    font-family: fantasy;
+}
+conteneur {
+    display: flex;
+    align-items: center;
+
+  }
+body {background-color: rgb(2, 0, 24);
+} 
+  img {
+    width: 35%;
+    position: absolute;
+    display: flex;
+    right: 84%;
+    transform: rotate(45deg);
+    top: 20%;
+  }

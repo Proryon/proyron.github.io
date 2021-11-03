@@ -1,0 +1,15 @@
+p
+{
+    color: blue;
+}
+conteneur {
+    display: flex;
+    align-items: center;
+    height: 25%;
+  }
+
+body  
+{
+  background-color: black;
+  color: white;
+}
