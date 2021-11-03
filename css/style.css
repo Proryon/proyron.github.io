@@ -1,15 +1,31 @@
-p
-{
-    color: blue;
-}
-conteneur {
-    display: flex;
-    align-items: center;
-    height: 25%;
-  }
-
-body  
-{
-  background-color: black;
+h1{
   color: white;
+  text-align: center;
+  font-size: 500%;
+  font-family: fantasy;
+}
+h4{
+  color: white;
+  text-align: left;
+  font-size: 250%;
+  top: 99%;
+  font-family: fantasy;
+}
+p{
+  color: white;
+  text-align: center;
+  font-size: auto;
+  font-family: fantasy;
+}
+
+body {background-color: rgb(2, 0, 24);
+} 
+img {
+  width: 3%;
+  bottom: 5%;
+}
+p {
+  font-size: 1rem;
+  font-family: sans-serif;
+  margin: 20px;
 }

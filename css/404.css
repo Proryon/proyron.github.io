@@ -10,11 +10,7 @@ p{
     font-size: auto;
     font-family: fantasy;
 }
-conteneur {
-    display: flex;
-    align-items: center;
 
-  }
 body {background-color: rgb(2, 0, 24);
 } 
   img {
