@@ -21,7 +21,12 @@ body {background-color: rgb(2, 0, 24);
     width: 35%;
     position: absolute;
     display: flex;
-    right: 84%;
+    right: 80%;
     transform: rotate(45deg);
     top: 20%;
   }
+  p {
+    font-size: 1rem;
+    font-family: sans-serif;
+    margin: 20px;
+}
