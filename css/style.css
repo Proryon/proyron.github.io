@@ -4,13 +4,13 @@ h1{
   font-size: 500%;
   font-family: fantasy;
 }
-h4{
+/*h4{
   color: white;
   text-align: left;
-  font-size: 250%;
+  font-size: 220%;
   top: 99%;
   font-family: fantasy;
-}
+}*/
 p{
   color: white;
   text-align: center;
@@ -20,9 +20,19 @@ p{
 
 body {background-color: rgb(2, 0, 24);
 } 
-img {
+/*img {
   width: 3%;
   bottom: 5%;
+}*/
+titre{
+  color: black;
+  text-align: left;
+  font-size: 220%;
+  top: 99%;
+  font-family: fantasy;
+  width: 3%;
+  bottom: 5%;
+
 }
 p {
   font-size: 1rem;
